@@ -1,0 +1,9 @@
+# 원본 문서 (개인정보 포함, 업로드 금지)
+*.hwp
+*.hwpx
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
